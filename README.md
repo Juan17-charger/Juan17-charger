@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juan17-charger
 - 👀 I’m interested in ...AI, ROBOTICS, ETHICAL HACKING AND IOT
-- 🌱 I’m currently learning ...PYTHON
+- 🌱 I’m currently learning ...Javascript, React,Vue.js, Tailwind CSS, Node.js
 - 💞️ I’m looking to collaborate on ...KAGGLE
 - 📫 How to reach me ...juanmuthami999@gmail.com
 
